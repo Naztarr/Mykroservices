@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to NaztarBank loans related QA APIs"
+  contactDetails:
+    name: "Naz Herbert - QA lead"
+    email: "hemachael18@gmail.com"
+  onCallSupport:
+    -(666)536-3436
+    -(666)453-6545
