@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to NaztarBank cards related prod APIs"
+  contactDetails:
+    name: "Naztar Ezemmuo - Product Owner"
+    email: "hemachael18@gmail.com"
+  onCallSupport:
+    -(666)536-3436
+    -(666)453-6545
